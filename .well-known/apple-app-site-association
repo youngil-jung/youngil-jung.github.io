@@ -3,10 +3,9 @@
 	"apps": [],
         "details": [
             {
-                "appID": "XFX2CBDD7M.com.sngy.dring",
-                "paths": [
-                    "/*",
-                    "*"
+                "appIDs": ["XFX2CBDD7M.com.sngy.dring"],
+                "components": [
+			"/": "*"
                 ] 
             }
         ]
