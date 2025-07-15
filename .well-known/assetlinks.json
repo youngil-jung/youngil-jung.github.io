@@ -3,7 +3,10 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.sngy.dring",
-    "sha256_cert_fingerprints": ["FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"]
+    "sha256_cert_fingerprints": [
+	"FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
+	, "44:C1:EE:AD:26:B9:5B:33:56:38:04:FC:01:30:49:20:8D:33:D3:87:B7:76:C2:AD:0B:62:CD:1F:1F:B4:FF:6B"
+	]
   }
 }]
 
