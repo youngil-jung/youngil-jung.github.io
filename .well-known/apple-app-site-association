@@ -2,11 +2,10 @@
     applinks: {
         details: [
             {
-                appIDs: ["XFX2CBDD7M.com.sngy.dring"],
-                components: [
-               		{
-                	/: “*”
-                    }
+                "appIDs": ["XFX2CBDD7M.com.sngy.dring"],
+                "paths": [
+                    "/*",
+                    "*"
                 ] 
             }
         ]
