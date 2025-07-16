@@ -5,9 +5,12 @@
             {
                 "appIDs": ["XFX2CBDD7M.com.sngy.dring"],
                 "components": [
-			"/": "*"
+			        {
+                        "/": "*"
+                    }
                 ] 
             }
         ]
     }
 }
+
